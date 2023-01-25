@@ -1,9 +1,6 @@
-Project Name
-See the live version of Project Name.
+# Baza danych Hotel:
 
-1-3 sentences about the project...
-
-Main features:
+## Baza danych hotelu pozwala na przechowywanie, zarządzanie i udostępnianie informacji o pokojach, rezerwacjach, gościach oraz innych danych związanych z funkcjonowaniem hotelu. Jest to narzędzie niezbędne dla zarządzania przedsiębiorstwem hotelowym, ponieważ umożliwia automatyzację procesów rezerwacji, fakturowania, rozliczania i statystyk. Bazy danych hotelowych mogą być dostępne przez internet, co pozwala na zarządzanie rezerwacjami i innymi danymi z dowolnego miejsca na świecie.
 
 ### guests (goście), zawierająca informacje o gościach, takie jak ich imię, nazwisko, adres e-mail i numer telefonu.
 ### rooms (pokoje), zawierająca informacje o pokojach, takie jak numer pokoju, typ, cenę, liczbę łóżek i dostępność.
