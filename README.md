@@ -1,6 +1,6 @@
 # Baza danych Hotel:
 
-## Baza danych hotelu pozwala na przechowywanie, zarządzanie i udostępnianie informacji o pokojach, rezerwacjach, gościach oraz innych danych związanych z funkcjonowaniem hotelu. Jest to narzędzie niezbędne dla zarządzania przedsiębiorstwem hotelowym, ponieważ umożliwia automatyzację procesów rezerwacji, fakturowania, rozliczania i statystyk. Bazy danych hotelowych mogą być dostępne przez internet, co pozwala na zarządzanie rezerwacjami i innymi danymi z dowolnego miejsca na świecie.
+### Baza danych hotelu pozwala na przechowywanie, zarządzanie i udostępnianie informacji o pokojach, rezerwacjach, gościach oraz innych danych związanych z funkcjonowaniem hotelu. Jest to narzędzie niezbędne dla zarządzania przedsiębiorstwem hotelowym, ponieważ umożliwia automatyzację procesów rezerwacji, fakturowania, rozliczania i statystyk. Bazy danych hotelowych mogą być dostępne przez internet, co pozwala na zarządzanie rezerwacjami i innymi danymi z dowolnego miejsca na świecie.
 
 ### Baza danych hotel zawiera następujące tabele:
 #### guests (goście), zawierająca informacje o gościach, takie jak ich imię, nazwisko, adres e-mail i numer telefonu.
